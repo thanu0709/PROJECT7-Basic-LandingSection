@@ -1,0 +1,41 @@
+#background {
+    background-color: #0056D2;
+    position: absolute;
+    width: 60%;
+    height: 50%;
+    margin: 15%;
+    font-family: "Open Sans", sans-serif;
+}
+
+img {
+    width: 45%;
+    border-radius: 8px;
+    float: right;
+    margin-right: 8%;
+    margin-top: 5%;
+}
+
+#text {
+    margin-top: 6%;
+    margin-left: 8%;
+    color: aliceblue;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 14px;
+}
+
+button {
+    padding: 8px 15px;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 5px;
+    border: #0056D2;
+    color: #0056D2
+}
+
+
